@@ -1,2 +1,7 @@
 This file contains description of a feature that is yet to be made.
+<<<<<<< HEAD
 This feature will have the following description - 
+=======
+
+Feture1 would include login component that enables user to login.
+>>>>>>> 0d23a96 (added some overview of feature 1)
