@@ -1,1 +1,1 @@
-Hey, This is a temporary txt file used for demo purposes.
+Hey, This is the main txt file which describes the project in detail.
