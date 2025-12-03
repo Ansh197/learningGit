@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hey, This is the main txt file which describes the project in detail.
+=======
+Hey, This is a temporary txt file used for demo purposes.
+
+The project will be an ecommerce website for furniture in which a single user which is the owner can upload and sell their products.
+>>>>>>> b49e23e (add more details to main file)
